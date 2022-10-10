@@ -1,0 +1,28 @@
+{
+  "name": "thegospel",
+  "version": "1.0.0",
+  "description": "the Gospel of our Lord Jesus Christ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkabore/theGospel.git"
+  },
+  "keywords": [
+    "Gospel",
+    "Lord",
+    "Jesus",
+    "Christ"
+  ],
+  "author": "pkabore jisoo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pkabore/theGospel/issues"
+  },
+  "homepage": "https://github.com/pkabore/theGospel#readme",
+  "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.1.13"
+  }
+}
