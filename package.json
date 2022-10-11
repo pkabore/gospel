@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/pkabore/theGospel#readme",
   "devDependencies": {
-    "prettier-plugin-tailwindcss": "^0.1.13"
+    "prettier-plugin-tailwindcss": "^0.1.13",
+    "tailwindcss": "^3.1.8"
   }
 }
