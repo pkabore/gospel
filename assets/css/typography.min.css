@@ -18,6 +18,16 @@
 	src: url('../../fonts/Inter-italic.var.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: "Outfit";
+    font-display: swap;
+    font-style: normal;
+    font-weight: 100 900;
+    font-named-instance: "Regular";
+    src: url('../../fonts/Outfit-Regular-Var.ttf') format('truetype');
+}
+
+
 :root {
 /* Increase or decrease the  number 
 to change the vertical spacing globally*/
