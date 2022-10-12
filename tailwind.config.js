@@ -6,6 +6,9 @@ module.exports = {
   theme: {
     extend: {
     },
+    fontFamily:{
+      sans:["Outfit", "Inter", "system-ui", "sans-serif"],
+    }
   },
   plugins: [],
 };
